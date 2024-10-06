@@ -54,11 +54,6 @@ Install MySQL and MongoDB on the VM.
 Create sample databases and tables for testing.
 Establish Python scripts for connecting to MySQL and MongoDB.
 
-### Apache Flink Setup:
-
-Set up Apache Flink for stream processing.
-Configure Flink to integrate with Kafka for real-time data ingestion.
-
 ### Grafana Setup:
 Install Grafana for data visualization.
 Configure Grafana dashboards to monitor real-time data and metrics.
@@ -73,7 +68,7 @@ Install MySQL and MongoDB: Install the databases by running the respective insta
 
 Run the Python ETL pipeline: Set up the environment and run Python scripts to export data from MySQL and MongoDB, convert to Parquet format, and ingest into HDFS.
 
-Configure Grafana for Monitoring: Install and configure Grafana to visualize real-time data.
+Configure Grafana for Monitoring: Install and configure Grafana to visualize dashboard for data visualization.
 
 
 #### Frequently Asked Questions (FAQs)
