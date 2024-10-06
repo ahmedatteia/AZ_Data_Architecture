@@ -1,6 +1,6 @@
-################# OS Prerequisites Setup #################
+# ################# Oracle Linux OS Prerequisites Setup #################
 
-1. Download and Install – Oracle VM VirtualBox (Current Version: 7.1.0)
+## 1. Download and Install – Oracle VM VirtualBox (Current Version: 7.1.0)
    - Oracle website: https://www.oracle.com/ae/virtualization/technologies/vm/downloads/virtualbox-downloads.html
    - For Windows: Download the `.exe` file and follow the installation wizard.
    - For Linux: Download the package for your OS and follow the instructions.
@@ -10,7 +10,7 @@
    - Go to the `File` menu > Tools > Network Manager.
    - Create a Host-only Network and assign an IPv4 prefix, e.g., 192.168.56.xx.
 
-2. Download Developer Day - Hands-on Database Application Development Image (Oracle Database 23c Free VirtualBox Appliance)
+## 2. Download Developer Day - Hands-on Database Application Development Image (Oracle Database 23c Free VirtualBox Appliance)
    - URL: https://www.oracle.com/database/technologies/databaseappdev-vm.html
    - This virtual machine contains:
      - Oracle Linux 8.8
@@ -23,7 +23,7 @@
    - At least 4GB RAM
    - At least 20GB of free disk space
 
-3. Import the Oracle VM VirtualBox Appliance:
+## 3. Import the Oracle VM VirtualBox Appliance:
    - Open Oracle VM VirtualBox.
    - Go to the `File` menu > Open Import Virtual Appliance.
    - Select the downloaded file and click through the steps to complete the import.
@@ -31,7 +31,7 @@
    
    Start the VM and connect using any SSH tool like MobaXTerm.
 
-4. Login Credentials for the VM:
+## 4. Login Credentials for the VM:
    - Username: `oracle`
    - Password: `oracle`
 
@@ -40,7 +40,7 @@
    sudo su -
    ```
 
-5. Enable Telnet:
+## 5. Enable Telnet:
    - Edit the repo file:
    ```bash
    vi /etc/yum.repos.d/custom-oracle-linux.repo
