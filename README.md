@@ -1,4 +1,4 @@
-### Note: Project deployment still in progress will add more update
+### Note: Project deployment still in progress will add more updates soon
 
 # Data Lakes Batch Processing On Premises
 
