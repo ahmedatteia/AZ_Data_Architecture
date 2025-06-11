@@ -1,0 +1,8 @@
+# Install Python packages
+numpy
+pandas
+imbalanced-learn
+scikit-learn
+keras
+matplotlib
+seaborn
