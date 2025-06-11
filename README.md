@@ -6,6 +6,7 @@ This repository is a companion to my **YouTube series on Azure Data Architecture
 Here, I'll walk through hands-on implementations of various **Azure data services**, using real-world scenarios and data projects.  
 Each service includes code samples, architecture design, implementation steps, and integration examples.
 
+
 ---
 
 ## 📚 What You’ll Learn
