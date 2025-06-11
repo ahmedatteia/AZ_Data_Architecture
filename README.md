@@ -27,6 +27,7 @@ This repository covers the following Azure services and topics:
 ---
 
 ## 🧩 Repository Structure
+
 az_data_architecture/
 - ├── azure-data-factory/ # ADF pipelines, datasets, linked services
 - ├── azure-synapse-analytics/ # SQL pools, Spark jobs, notebooks
