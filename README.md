@@ -27,3 +27,16 @@ This repository covers the following Azure services and topics:
 ---
 
 ## 🧩 Repository Structure
+az_data_architecture/
+│
+├── azure-data-factory/ # ADF pipelines, datasets, linked services
+├── azure-synapse-analytics/ # SQL pools, Spark jobs, notebooks
+├── azure-databricks/ # Databricks notebooks, clusters, integrations
+├── azure-machine-learning/ # Training, deploying ML models
+├── azure-data-science/ # Jupyter notebooks, data prep, visualization
+├── azure-data-analytics/ # Real-time dashboards, queries
+├── azure-artificial-intelligence/# Cognitive services, AI models
+├── azure-data-governance/ # Role-based access, encryption, auditing
+├── azure-data-architect/ # Architecture blueprints, best practices
+│
+└── README.md # This file
