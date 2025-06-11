@@ -1,0 +1,1 @@
+Azure Synapse Analytics    | Big data analytics, SQL pools dedicated and serverless, Spark pools
